@@ -5,7 +5,8 @@ html {
   font-size: 14px;
 }
 body {
-  background-color: #f7f7f7;
+  background: rgba(0,0,0,0) url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1552653357935&di=7ff2b5ffc558b712d3a4eb1543a5b78d&imgtype=0&src=http%3A%2F%2Fpic2.ooopic.com%2F11%2F05%2F03%2F83b1OOOPIC10.jpg") no-repeat fixed;
+  background-size: 100% 100%;
 }
 body,
 button,
@@ -108,6 +109,7 @@ img.thumbnail {
   flex-grow: 1;
   flex-shrink: 0;
   overflow-x: auto;
+  background-color: rgba(255,255,255,0);
 }
 .navbar-main .navbar-start {
   justify-content: flex-start;
