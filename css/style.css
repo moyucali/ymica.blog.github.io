@@ -53,9 +53,22 @@ textarea {
 .tag.is-grey {
   background: #e7e7e7;
 }
+.level.is-mobile .level-item:not(.is-narrow) {
+  background: rgba(255,255,255,0);
+}
+.button.is-light {
+  background-color: rgba(255,255,255,0.35);
+}
+.content blockquote {
+  background-color: rgba(255,255,255,0.6);
+}
+a.navbar-item:hover {
+  background-color: rgba(255,255,255,0.3);
+}
 .card {
   border-radius: 4px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05), 0 0 1px rgba(0,0,0,0.1);
+  background-color: rgba(255,255,255,0.6);
 }
 .card + .card,
 .card + .column-right-shadow {
@@ -81,6 +94,7 @@ img.thumbnail {
 }
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  background-color: rgba(255,255,255,0.3);
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -125,7 +139,7 @@ img.thumbnail {
   }
 }
 .footer {
-  background: #fff;
+  background-color: rgba(255,255,255,0.3);
 }
 .footer .field .button {
   background: transparent;
