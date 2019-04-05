@@ -31,7 +31,7 @@ function update_history() {
     if (history) {
         var html = "";
         $.each(history, function (i, v) {
-            html += "<a class='btn btn-default' href='javascript:;' role='button'>" + v + "</a>"
+            html += "<a class="btn btn-default" href="javascript:;" role="button" target="_blank" rel="noopener">" + v + "</a>"
         })
         $("#history").html(html);
     }
