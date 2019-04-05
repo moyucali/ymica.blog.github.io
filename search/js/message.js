@@ -125,13 +125,13 @@ function hideMessage(timeout){
 }
 
 function initLive2d (){
-    $('.hide-button').fadeOut(0).on('click', () => {
-        $('#landlord').css('display', 'none')
+    $('.about-button').fadeOut(0).on('click', () => {
+       /* 无操作*/
     })
     $('#landlord').hover(() => {
-        $('.hide-button').fadeIn(600)
+        $('.about-button').fadeIn(600)
     }, () => {
-        $('.hide-button').fadeOut(600)
+        $('.about-button').fadeOut(600)
     })
 }
 initLive2d ();

@@ -1,9 +1,9 @@
 {
     "mouseover": [
         {
-            "selector": ".hide-button",
+            "selector": ".about-button",
             "text": [
-                "您讨厌我了吗..."
+                "你对我的主人感兴趣吗？"
             ]
         },
         {
@@ -58,6 +58,12 @@
             "selector": "#empty",
             "text": [
                 "是…这样就清除掉了"
+            ]
+        },
+        {
+            "selector": ".about-button",
+            "text": [
+                "\"你好，我是站长，名字是ymm，欢迎来访我的博客<a>ymica.cn</a>\""
             ]
         }
     ]
