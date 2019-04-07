@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/moyucali/ymica.blog.github.io/"/>
-  <updated>2019-04-05T16:41:37.006Z</updated>
+  <updated>2019-04-07T07:36:42.137Z</updated>
   <id>https://github.com/moyucali/ymica.blog.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://github.com/moyucali/ymica.blog.github.io/2019/03/20/%E6%95%B4%E7%90%86%E5%8D%9A%E5%AE%A2%E6%A8%A1%E5%9D%97%E8%AE%B0%E5%BD%95/"/>
     <id>https://github.com/moyucali/ymica.blog.github.io/2019/03/20/整理博客模块记录/</id>
     <published>2019-03-20T12:55:04.000Z</published>
-    <updated>2019-04-05T16:41:37.006Z</updated>
+    <updated>2019-04-07T07:36:42.137Z</updated>
     
-    <content type="html"><![CDATA[<p>归纳日志整理(从3月20日起)：<a id="more"></a></p><h3 id="2019-3-20"><a href="#2019-3-20" class="headerlink" title="2019-3-20"></a>2019-3-20</h3><blockquote><p>搜索页整理到博客上，置换域名相对路径</p></blockquote><h3 id="2019-3-21"><a href="#2019-3-21" class="headerlink" title="2019-3-21"></a>2019-3-21</h3><blockquote><p>解决http相关的网站解析问题，修了点bug</p></blockquote><h3 id="2019-3-29"><a href="#2019-3-29" class="headerlink" title="2019-3-29"></a>2019-3-29</h3><blockquote><p>搜索站修改为本地api，修复了一些bug</p></blockquote><h3 id="2019-3-31"><a href="#2019-3-31" class="headerlink" title="2019-3-31"></a>2019-3-31</h3><blockquote><p>将博客的大部分card半透明化<br>虽然不知道这样好不好，但是原来的纯白比较刺眼。<br>Ps：本来准备做夜间模式，结果…回头再做吧</p></blockquote><h3 id="2019-4-02"><a href="#2019-4-02" class="headerlink" title="2019-4-02"></a>2019-4-02</h3><blockquote><p>透明度降低，过于透明虽然好看但会影响阅读，顺便把卡片的阴影加深了下<br><img src="https://s2.ax1x.com/2019/04/02/A6BP8e.png" alt="透明版" title="&#39;透明版&#39;"><br><img src="https://s2.ax1x.com/2019/04/02/A6Bw24.png" alt="现在" title="&#39;现在&#39;"></p></blockquote><h3 id="2019-4-06"><a href="#2019-4-06" class="headerlink" title="2019-4-06"></a>2019-4-06</h3><blockquote><p>设置了自定义404页面，修改了关于</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>归纳日志整理(从3月20日起)：<a id="more"></a></p><h3 id="2019-3-20"><a href="#2019-3-20" class="headerlink" title="2019-3-20"></a>2019-3-20</h3><blockquote><p>搜索页整理到博客上，置换域名相对路径</p></blockquote><h3 id="2019-3-21"><a href="#2019-3-21" class="headerlink" title="2019-3-21"></a>2019-3-21</h3><blockquote><p>解决http相关的网站解析问题，修了点bug</p></blockquote><h3 id="2019-3-29"><a href="#2019-3-29" class="headerlink" title="2019-3-29"></a>2019-3-29</h3><blockquote><p>搜索站修改为本地api，修复了一些bug</p></blockquote><h3 id="2019-3-31"><a href="#2019-3-31" class="headerlink" title="2019-3-31"></a>2019-3-31</h3><blockquote><p>将博客的大部分card半透明化<br>虽然不知道这样好不好，但是原来的纯白比较刺眼。<br>Ps：本来准备做夜间模式，结果…回头再做吧</p></blockquote><h3 id="2019-4-02"><a href="#2019-4-02" class="headerlink" title="2019-4-02"></a>2019-4-02</h3><blockquote><p>透明度降低，过于透明虽然好看但会影响阅读，顺便把卡片的阴影加深了下<br><img src="https://s2.ax1x.com/2019/04/02/A6BP8e.png" alt="透明版" title="&#39;透明版&#39;"><br><img src="https://s2.ax1x.com/2019/04/02/A6Bw24.png" alt="现在" title="&#39;现在&#39;"></p></blockquote><h3 id="2019-4-06"><a href="#2019-4-06" class="headerlink" title="2019-4-06"></a>2019-4-06</h3><blockquote><p>设置了自定义404页面，修改了关于<br><img src="https://ymica.cn/images/404.png" alt="404" title="&#39;404&#39;"></p></blockquote>]]></content>
     
     <summary type="html">
     
